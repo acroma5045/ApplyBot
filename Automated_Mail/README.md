@@ -143,10 +143,5 @@ Author: **Harsh Shinde** ([harsh.shinde.job@gmail.com](mailto:harsh.shinde.job@g
 
 ---
 
-If you want, I can:
 
-- Convert the script to read recipients from a CSV,
-- Add logging + retry logic,
-- Or make an alternate version that uses `smtplib.SMTP_SSL` correctly for port 465.
 
-Tell me which improvement you'd like and I can update the repo file for you.
